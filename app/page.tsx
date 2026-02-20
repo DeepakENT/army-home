@@ -5,4 +5,4 @@ export default function Home() {
       <p>Relax & Unwind at Home</p>
     </main>
   );
-  
+}
